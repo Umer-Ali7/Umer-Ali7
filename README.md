@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Umer Ali</h1>
 
 - 🔭 I’m currently working on Next.js
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Agentic and Robotic AI
 - 💬 Ask me anything about TypeScript
 - 📫 How to reach me: umerali54544@gmail.com
 - ⚡ Fun fact: I'm comming to teen
