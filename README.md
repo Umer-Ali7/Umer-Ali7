@@ -16,6 +16,7 @@
 - ⚡ Fun fact: I'm just getting started but building like a senior 🧠💥
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramla-eman&label=Profile%20views&color=0e75b6&style=flat" alt="Umer-ali" /> </p>
 
 ### 🚀 Connect with me:
 <div id="badges">
