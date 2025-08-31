@@ -1,3 +1,4 @@
+https://camo.githubusercontent.com/e877be225135b5cb02aa8767c02b8ddeb196586d8ea49145b377368630855483/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73756268616e6b616c61646926636f6c6f723d626c7565
 <a href="https://gitroll.io/profile/u7m99jh2swmepGQ6ILBunOUnprKh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7m99jh2swmepGQ6ILBunOUnprKh2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
