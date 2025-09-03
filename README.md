@@ -9,7 +9,6 @@
 
 <p align="center">
   <b>AI Agent Developer</b> • Full-Stack Engineer • Next.js & LLM Enthusiast
-  
 </p>
 
 ---
