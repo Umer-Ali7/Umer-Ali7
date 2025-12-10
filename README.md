@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=Umer-Ali7&color=blue" alt="Profile Views" />
 </p>
 
-<a href="https://gitroll.io/profile/u7m99jh2swmepGQ6ILBunOUnprKh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7m99jh2swmepGQ6ILBunOUnprKh2?theme=light" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/u7m99jh2swmepGQ6ILBunOUnprKh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7m99jh2swmepGQ6ILBunOUnprKh2?theme=light" alt="GitRoll Profile Badge"/></a> -->
+<a href="https://gitroll.io/profile/u7m99jh2swmepGQ6ILBunOUnprKh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7m99jh2swmepGQ6ILBunOUnprKh2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
